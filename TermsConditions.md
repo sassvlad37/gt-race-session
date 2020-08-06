@@ -18,6 +18,7 @@ You should be aware that there are certain things that sassvlad37@gmail.com will
 
 If you’re using the app outside of an area with Wi-Fi, you should remember that your terms of the agreement with your mobile network provider will still apply. As a result, you may be charged by your mobile provider for the cost of data for the duration of the connection while accessing the app, or other third party charges. In using the app, you’re accepting responsibility for any such charges, including roaming data charges if you use the app outside of your home territory (i.e. region or country) without turning off data roaming. If you are not the bill payer for the device on which you’re using the app, please be aware that we assume that you have received permission from the bill payer for using the app.
 
+
 Along the same lines, sassvlad37@gmail.com cannot always take responsibility for the way you use the app i.e. You need to make sure that your device stays charged – if it runs out of battery and you can’t turn it on to avail the Service, sassvlad37@gmail.com cannot accept responsibility.
 
 With respect to sassvlad37@gmail.com’s responsibility for your use of the app, when you’re using the app, it’s important to bear in mind that although we endeavour to ensure that it is updated and correct at all times, we do rely on third parties to provide information to us so that we can make it available to you. sassvlad37@gmail.com accepts no liability for any loss, direct or indirect, you experience as a result of relying wholly on this functionality of the app.
